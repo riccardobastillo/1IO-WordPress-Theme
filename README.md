@@ -3,7 +3,7 @@ Multipropouse | All Page Builder - Woocommerce - BuddyPress - bbPress | Compatib
 
 Tested with WordPress 5.2.2
 
-Demo site: https://wordpress.1io.it/demotheme
+Demo site: https://wordpress.1io.it/demotheme/wp-admin
 
 User: 1io
 
