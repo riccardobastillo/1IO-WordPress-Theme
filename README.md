@@ -1,7 +1,7 @@
 # 1IO-WordPress-Theme
 Multipropouse | All Page Builder - Woocommerce - BuddyPress - bbPress | Compatible
 
-Tested with WordPress 5.2.2
+Tested with WordPress 5.2.3
 
 Demo site: https://wordpress.1io.it/demotheme/wp-admin
 
